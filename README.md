@@ -11,8 +11,9 @@ FOTOGRAFIJA vezja:\
 
 
 VIDEO POSNETEK delovanja: \
-<video src="https://github.com/vasjamarkic/vaja999-ADC-turbo-STMF7/blob/main/video.mp4" width="320" height="240" controls></video>
-
+<p align="center" width="100%">
+<video src="https://github.com/vasjamarkic/vaja999-ADC-turbo-STMF7/blob/main/video.mp4" width="80%" controls></video>
+</p>
 
 ODGOVORI NA VPRAŠANJA:\
 2.)\
